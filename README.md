@@ -4,7 +4,7 @@
 * LinkList.
 * Sort.
 * Tree.
-*Search.
+* Search.
 
 # Bài tập:
 * Hoàn thành 5 Class: Fizzbuzz,Reverse,Fibonacci,Stack,Queue.
